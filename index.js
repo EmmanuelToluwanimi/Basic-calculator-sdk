@@ -1,6 +1,6 @@
 
 const validate = (x, y) => {
-    if (x.isNaN() || y.isNaN()) {
+    if (isNaN(x) || isNaN(y)) {
         return "Error"
     }
 }
@@ -31,4 +31,6 @@ const square = (x) => {
     return x * x
 }
 
-export { add, subtract, multiply, divide, square }
+console.log(add(2, 5))
+
+// export { add, subtract, multiply, divide, square }
