@@ -23,7 +23,7 @@ const multiply = (x, y) => {
 const divide = (x, y) => {
     validate(x, y)
     if (y === 0) return "Error"
-    return x / y
+    return (x / y).toFixed(2)
 }
 
 const square = (x) => {
@@ -31,6 +31,6 @@ const square = (x) => {
     return x * x
 }
 
-console.log(add(2, 5))
+console.log(square(5, 4))
 
 // export { add, subtract, multiply, divide, square }
