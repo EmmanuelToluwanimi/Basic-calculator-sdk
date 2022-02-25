@@ -1,0 +1,28 @@
+{
+  "name": "@emmanueltoluwanimi/basic-calculator-sdk",
+  "version": "1.0.0",
+  "description": "An SDK for basic performing basic operations in a basic calculator",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EmmanuelToluwanimi/Basic-calculator-sdk.git"
+  },
+  "keywords": [
+    "basic",
+    "calculator",
+    "sdk",
+    "calculator",
+    "addition",
+    "substraction"
+  ],
+  "author": "Emmanuel Toluwanimi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EmmanuelToluwanimi/Basic-calculator-sdk/issues"
+  },
+  "homepage": "https://github.com/EmmanuelToluwanimi/Basic-calculator-sdk#readme"
+}
