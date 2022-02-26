@@ -31,6 +31,5 @@ const square = (x) => {
     return x * x
 }
 
-console.log(square(5, 4))
-
-// export { add, subtract, multiply, divide, square }
+// console.log(square(5, 4))
+export { add, subtract, multiply, divide, square }

@@ -1,5 +1,5 @@
 {
-  "name": "@emmanueltoluwanimi/basic-calculator-sdk",
+  "name": "@emmanueltoluwanimi/bsc-sdk",
   "version": "1.0.0",
   "description": "An SDK for basic performing basic operations in a basic calculator",
   "main": "index.js",
