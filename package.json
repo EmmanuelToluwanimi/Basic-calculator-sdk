@@ -1,6 +1,6 @@
 {
   "name": "@emmanueltoluwanimi/bsc-sdk",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "An SDK for basic performing basic operations in a basic calculator",
   "main": "index.js",
   "type": "module",
